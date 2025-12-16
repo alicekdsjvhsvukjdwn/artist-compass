@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rap FR sombre — Starter",
+    "bpm": 140,
+    "checklist": [
+      "Choisir tonalité simple (mineur)",
+      "Drums: kick + snare + hat (pattern stable)",
+      "808: 1 motif simple (pas de gymnastique)",
+      "Hook: 8 mesures (variation + pause)",
+      "Automation légère (filtre/reverb)",
+      "Bounce mp3 et écoute au casque"
+    ]
+  },
+  {
+    "name": "Hyperpop mélancolique — Starter",
+    "bpm": 165,
+    "checklist": [
+      "Chords 4 accords simples",
+      "Lead brillant (1 patch fort)",
+      "Drums: snare large + hats rapides",
+      "Drop: 8 mesures + mini break",
+      "Ear candy (1-2 FX max)",
+      "Bounce + note 3 améliorations"
+    ]
+  }
+]

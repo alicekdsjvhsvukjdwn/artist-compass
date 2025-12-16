@@ -1,10 +1,23 @@
 [
   {
+    "style": "rap FR sombre",
+    "bpm": [130, 150],
+    "mood": ["tendu", "nocturne"],
+    "refs": ["Laylow - (ref)", "Josman - (ref)", "La Fève - (ref)"],
+    "contraintes": ["808 simple", "drums secs", "8 mesures couplet + hook"]
+  },
+  {
     "style": "hyperpop mélancolique",
-    "bpm": [140, 170],
-    "valence": "moyenne",
-    "energie": "haute",
-    "refs": ["Titre A - Artiste", "Titre B - Artiste"],
-    "contraintes_du_jour": "1 loop + 2 variations + drop court"
+    "bpm": [150, 175],
+    "mood": ["euphorique", "triste"],
+    "refs": ["Charli XCX - (ref)", "100 gecs - (ref)", "Brakence - (ref)"],
+    "contraintes": ["lead brillant", "snare/clap large", "drop 8 mesures"]
+  },
+  {
+    "style": "lofi chill",
+    "bpm": [75, 95],
+    "mood": ["doux", "nostalgique"],
+    "refs": ["Nujabes - (ref)", "J Dilla - (ref)", "Lofi Girl - (ref)"],
+    "contraintes": ["chords jazzy simples", "vinyl noise léger", "structure AABA"]
   }
 ]
