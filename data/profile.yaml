@@ -1,13 +1,14 @@
-pseudo: "TonPseudo"
+pseudo: "Alice (temp)"
 styles_cibles: ["rap FR sombre", "hyperpop mélancolique"]
-influences: ["Laylow", "Josman"]
+influences: ["Laylow", "Josman", "Orelsan", "Billie Eilish", "Charli XCX"]
 niveau: "débutante"
 objectifs:
-  3_mois: "Sortir 1 démo propre"
-  1_an: "Sortir un EP de 4 titres"
+  3_mois: "Sortir 1 démo propre + 1 prise voix clean sur un couplet/refrain"
+  1_an: "Sortir un EP de 4 titres (même si imparfait)"
 points:
-  technique_plus: ["rythmique", "sound design"]
-  technique_a_bosser: ["mix voix", "compression"]
-  creatif_plus: ["écriture", "univers"]
-  creatif_a_bosser: ["topline"]
-  mental: ["constance", "peur de se montrer"]
+  technique_a_bosser: ["mix voix basique", "structure/arrangement", "sound selection"]
+  creatif_a_bosser: ["topline", "écriture (images plus précises)"]
+  mental_a_proteger: ["constance", "oser montrer", "éviter la perfection paralysante"]
+regles:
+  focus_styles_max: 2
+  terminer_avant_nouveau: true
