@@ -1,0 +1,10 @@
+[
+  {
+    "style": "hyperpop mélancolique",
+    "bpm": [140, 170],
+    "valence": "moyenne",
+    "energie": "haute",
+    "refs": ["Titre A - Artiste", "Titre B - Artiste"],
+    "contraintes_du_jour": "1 loop + 2 variations + drop court"
+  }
+]
